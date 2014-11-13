@@ -22,6 +22,8 @@ SWGROUPS = {   "editors":
                   , "cmake"
                   , "g++"
                   , "clang"
+                  , "gdb"
+                  , "valgrind"
                   , "libqt4-dev"
                   , "exuberant-ctags"
                   , "doxygen"
